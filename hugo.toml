@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-cn'
+title = '公会那点事'
+theme = 'anatole'
+[params]
+  author = 'Four Seas'
+  copyright = 'Four Seas'
+  profilePicture = 'https://assets.fourfire.wang/resource/logo.png'
